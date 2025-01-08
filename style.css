@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Parkinsans:wght@300..800&display=swap");
+
+:root {
+  --cor0: #e9e4e4;
+  --cor1: #332d2d;
+  --cor2: #332424;
+  --cor3: #663e3a;
+  --cor4: #91413a;
+  --cor5: #92201e;
+  --cor6: #bd0a07;
+
+  --font-padrão: arial, verdana, helvetica, sans-serif;
+  --font-destaque: "Parkinsans", serif;
+}
